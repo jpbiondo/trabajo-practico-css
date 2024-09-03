@@ -35,7 +35,7 @@ blockquote {
 .caja-1 {
     border: 2px solid #4c566a;
     border-radius: 5px;
-    box-shadow: 1px 1px 3px #000;
+    box-shadow: 2px 2px 3px #ccc;
 
     margin: 1em;
     padding: .25em .5em;
@@ -47,7 +47,7 @@ blockquote {
 
     border: 3px solid #4c566a;
     border-radius: 5px;
-    box-shadow: 1px 1px 3px #000;
+    box-shadow: 2px 2px 3px #ccc;
 
     margin: 1em;
     padding: .25em .5em;
