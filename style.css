@@ -73,16 +73,12 @@ blockquote {
     background-color: #2779f5;
 
     color: #fff;
-    
+
     /* Posicionamiento a partir del contenedor padre, al ser este relativo */
     top: 0;
     right: 0;
 
     padding: .25em 1em;
     
-
- 
-
     border-radius: 5px;
-
 }
