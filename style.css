@@ -52,3 +52,14 @@ blockquote {
     margin: 1em;
     padding: .25em 1em;
 }
+
+.rel-box {
+    position: relative;
+    background-color: #fa9cff;
+
+    /* Posicionamiento a partir de su posición relativa la página */
+    top:1em;
+
+    margin: 0em 1em;
+    padding: .25em 1em;
+}
