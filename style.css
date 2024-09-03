@@ -4,6 +4,18 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+section {
+    background-color: #fff;
+
+    margin: 1em;
+    padding: 1em 2em;
+    
+    border: 2px solid #4c566a;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px #ccc;
+}
+
+/* Punto 1 - Header*/
 header {
     background-color: #4c566a;  
     padding: .25em 0em;
@@ -16,6 +28,7 @@ header h1{
     text-align: center;
 }
 
+/* Punto 2 */
 p.props {
     text-decoration: underline;
     text-transform: capitalize;
@@ -31,6 +44,8 @@ blockquote {
     color:#444444;
     font-style: italic;
 }
+
+/* Punto 3 - Cajas */
 
 .caja-1 {
     border: 2px solid #4c566a;
@@ -53,6 +68,8 @@ blockquote {
     padding: .25em 1em;
 }
 
+
+/* Punto 4 - Posiciones */
 .rel-box {
     position: relative;
     background-color: #accbfa;
@@ -83,6 +100,7 @@ blockquote {
     border-radius: 5px;
 }
 
+/* Punto 5 - Responsive */
 @media screen and (max-width: 768px) {
     body {
         background-color: #2e3440;
@@ -98,6 +116,7 @@ blockquote {
     
 }
 
+/* Punto 6 - Grids */
 .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -115,6 +134,7 @@ blockquote {
     font-weight: bold;
 }
 
+/* Punto 7 - Animations */
 .animacion {
     background-color: #accbfa;
     
@@ -147,16 +167,4 @@ blockquote {
      0% {left:0px;}
     50% {left: 80%}
    100% {left:0px;}
-}
-
-section {
-    background-color: #fff;
-
-    margin: 1em;
-    padding: 1em 2em;
-    
-    border: 2px solid #4c566a;
-    border-radius: 5px;
-    box-shadow: 2px 2px 3px #ccc;
-
 }
