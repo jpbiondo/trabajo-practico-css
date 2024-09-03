@@ -8,11 +8,15 @@ section {
     background-color: #fff;
 
     margin: 1em;
-    padding: 1em 2em;
+    padding: .5em 2em 1em 2em;
     
     border: 2px solid #4c566a;
     border-radius: 5px;
     box-shadow: 2px 2px 3px #ccc;
+}
+
+section h2 {
+    margin-bottom: 0em;
 }
 
 footer {
