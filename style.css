@@ -82,3 +82,14 @@ blockquote {
     
     border-radius: 5px;
 }
+
+@media screen and (max-width: 768px) {
+    body {
+        background-color: #2e3440;
+    }
+    header h1{
+        font-size: 1em;
+    }
+    
+    
+}
