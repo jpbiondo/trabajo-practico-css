@@ -66,5 +66,12 @@ blockquote {
 
 .abs-box {
     position: absolute;
+    background-color: #639cf2;
+
+    margin: 0em 1em;
+    padding: .25em 1em;
+    right:0em;
+    top: 0em;
+    width: 20em;
 
 }
