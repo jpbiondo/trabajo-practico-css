@@ -91,6 +91,10 @@ blockquote {
         font-size: 1em;
     }
     
+    section {
+        box-shadow: none;
+    }
+    
     
 }
 
@@ -147,7 +151,7 @@ blockquote {
 
 section {
     background-color: #fff;
-    
+
     margin: 1em;
     padding: 1em 2em;
     
