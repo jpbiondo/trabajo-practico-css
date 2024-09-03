@@ -100,3 +100,11 @@ blockquote {
 
     gap:1em;
 }
+
+.grid-item{
+    background-color: #accbfa;
+    border-radius: 5px;
+
+    text-align: center;
+    font-weight: bold;
+}
