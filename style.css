@@ -38,7 +38,7 @@ blockquote {
     box-shadow: 2px 2px 3px #ccc;
 
     margin: 1em;
-    padding: .25em .5em;
+    padding: .25em 1em;
 }
 
 .caja-2 {
@@ -50,5 +50,5 @@ blockquote {
     box-shadow: 2px 2px 3px #ccc;
 
     margin: 1em;
-    padding: .25em .5em;
+    padding: .25em 1em;
 }
