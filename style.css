@@ -16,7 +16,7 @@ header h1{
     text-align: center;
 }
 
-p {
+p.props {
     text-decoration: underline;
     text-transform: capitalize;
 }
