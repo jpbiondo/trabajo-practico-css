@@ -125,3 +125,13 @@ blockquote {
 .animacion:hover {
     background-color: #2779f5;
 }
+
+.mover {
+    background-color: #2779f5;
+
+    width: 128px;
+    height: 128px;
+    margin: 1em;
+
+    border-radius: 100%;
+}
